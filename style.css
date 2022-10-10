@@ -183,7 +183,183 @@ color: #29182E;
 /* upper middle end*/
 
 /* lower middle start*/
+.lower-middle {
+    position: absolute;
+width: 393px;
+height: 852px;
+left: 0px;
+top: 1704px;
 
+
+background: #F6F7F1;
+}
+
+.lower-title {
+    position: absolute;
+width: 343px;
+height: 60px;
+left: 25px;
+top: 44px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #29182E;
+}
+
+.key-articles {
+position: absolute;
+width: 243px;
+height: 638px;
+left: 75px;
+top: 154px;
+align-content: center;
+}
+
+.unity-title {
+    position: absolute;
+    width: 243px;
+    height: 176px;
+    left: 75px;
+    top: 154px;
+}
+
+.unityh3 {
+    position: absolute;
+width: 79px;
+height: 28px;
+left: 157px;
+top: 212px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #F14C36;
+}
+
+.unity-text {
+    position: absolute;
+width: 243px;
+height: 80px;
+left: 75px;
+top: 250px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #F14C36;
+
+}
+
+.privacy-title {
+    position: absolute;
+width: 243px;
+height: 176px;
+left: 75px;
+top: 154px;
+}
+
+.privacyh3 {
+    position: absolute;
+width: 109px;
+height: 28px;
+left: 142px;
+top: 433px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #436B2C;
+
+}
+
+.privacy-text {
+    position: absolute;
+width: 243px;
+height: 80px;
+left: 75px;
+top: 471px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #436B2C;
+}
+
+.carity-title {
+    position: absolute;
+width: 243px;
+height: 176px;
+left: 75px;
+top: 154px;
+}
+
+.clarityh3 {
+    position: absolute;
+width: 108px;
+height: 28px;
+left: 143px;
+top: 654px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #ECB20D;
+}
+
+.clarity-text {
+    position: absolute;
+width: 243px;
+height: 100px;
+left: 75px;
+top: 692px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #ECB20D;
+}
 /* lower middle end*/
 
 /* footer start*/
