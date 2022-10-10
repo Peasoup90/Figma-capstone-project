@@ -1,0 +1,195 @@
+
+
+
+/* header start*/
+
+header {
+    position: absolute;
+    width: 393px;
+    height: 852px;
+    left: 0px;
+    top: 0px;
+    
+    background: #29182E;
+}
+
+.nav {
+position: absolute;
+width: 393px;
+height: 81px;
+left: 0px;
+top: 0px;
+}
+
+.facebook {
+position: absolute;
+width: 214px;
+height: 40px;
+left: 90px;
+top: 20px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #F14C36;
+}
+
+.title-text {
+    position: absolute;
+width: 343px;
+height: 96px;
+left: 25px;
+top: 265px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+/* or 120% */
+
+text-align: center;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #F6F7F1;
+
+}
+
+.title-body {
+    position: absolute;
+width: 343px;
+height: 100px;
+left: 25px;
+top: 386px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #F6F7F1;
+}
+
+.get-started {
+    position: absolute;
+width: 250px;
+height: 60px;
+left: 72px;
+top: 526px;
+
+background: #F14C36;
+border-radius: 50px;
+}
+
+.get-started span {
+    position: absolute;
+width: 167px;
+height: 20px;
+left: 41px;
+top: 20px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+/*font-size: 20px;*/
+line-height: 20px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+text-align: center;
+
+color: #F6F7F1;
+}
+
+/* header end*/
+
+/* upper middle start*/
+
+.upper-middle {
+position: absolute;
+width: 393px;
+height: 852px;
+left: 0px;
+top: 852px;
+
+background: #F6F7F1;
+}
+
+img {
+position: absolute;
+width: 293px;
+height: 603.34px;
+left: 50px;
+top: 44px;
+
+}
+
+h2 {
+    position: absolute;
+width: 343px;
+height: 60px;
+left: 25px;
+top: 672px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+/*display: flex;*/
+align-items: center;
+text-align: center;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+flex-wrap: wrap;
+text-align: center;
+
+color: #29182E;
+}
+
+h2 span {
+    color: #F14C36;
+}
+
+.upper-middle-text {
+    position: absolute;
+width: 343px;
+height: 60px;
+left: 25px;
+top: 747px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #29182E;
+}
+
+/* upper middle end*/
+
+/* lower middle start*/
+
+/* lower middle end*/
+
+/* footer start*/
+
+/* footer end*/
+
+/* media start*/
+
+/* media end*/
